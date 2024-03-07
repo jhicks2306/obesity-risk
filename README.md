@@ -2,6 +2,9 @@ My submission for the Kaggle competition [Multi-class Prediction of Obesity Risk
 
 This submission ultimately placed me 50th out of 3589 submission (top 1.5%) on the private leaderboard as shown below.
 
+<img width="1191" alt="Screenshot 2024-03-07 at 17 53 29" src="https://github.com/jhicks2306/obesity-risk/assets/45722942/56e78064-4de1-44e4-8283-15dd37fd96e0">
+
+
 
 Skills used included:
 - Exploratory data analysis using `pandas`, `numpy`, `matplotlib` and `seaborn`.
