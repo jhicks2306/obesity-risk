@@ -6,7 +6,7 @@ This submission ultimately placed me 50th out of 3589 submission (top 1.5%) on t
 
 
 
-Skills used included:
+Skills and technologies used:
 - Exploratory data analysis using `pandas`, `numpy`, `matplotlib` and `seaborn`.
 - Data pre-processing with `sklearn`.
 - Building reusable data `pipelines`.
